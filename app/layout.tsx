@@ -10,8 +10,8 @@ const inter = Inter({ subsets: ["latin"] });
 const source_code_pro = Source_Code_Pro({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Mr. AlmostMD",
-  description: "The med-school dropout with a solid advice",
+  title: "Gemini Health",
+  description: "The new age of healthcare",
 };
 
 export default function RootLayout({

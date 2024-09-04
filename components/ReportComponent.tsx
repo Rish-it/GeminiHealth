@@ -160,7 +160,7 @@ const ReportComponent = ({ onReportConfirmation }: Props) => {
                 <Input type='file'
                     // accept='image/*' 
                     onChange={handleReportSelection} />
-                <Button onClick={extractDetails}>1. Upload File</Button>
+                <Button onClick={extractDetails}>Upload File</Button>
                 <Label>Report Summary</Label>
                 <Textarea
                     value={reportData}
@@ -171,15 +171,15 @@ const ReportComponent = ({ onReportConfirmation }: Props) => {
                     className="min-h-72 resize-none border-0 p-3 shadow-none focus-visible:ring-0" />
                 <Button
                     variant="destructive"
-                    className="bg-[#D90013]"
+                    className="bg-[#4285F4]"
                     onClick={() => {
                         onReportConfirmation(reportData);
                     }}
                 >
-                    2. Looks Good
+                    Looks Good
                 </Button>
                 <div className='flex flex-row items-center justify-center gap-2 p-4'>
-                    <Label>Share your thoughts </Label>
+                    <Label>Let's connect </Label>
                     <SocialMediaLinks />
                 </div>
             </fieldset>
