@@ -1,6 +1,3 @@
-# Creating the README.md file with the provided content
-
-content = """
 # GeminiHealth
 
 GeminiHealth is an advanced medical records application designed to streamline healthcare management and enhance patient care. Built using [Next.js](https://nextjs.org/) and [ShadCN UI](https://shadcn.dev/), this platform leverages cutting-edge AI technologies to provide accurate diagnoses and personalized treatment suggestions.
