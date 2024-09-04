@@ -54,6 +54,5 @@ To learn more about the technologies used in this project, explore the following
 
 Deploying your Next.js application is easiest through the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme). Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
