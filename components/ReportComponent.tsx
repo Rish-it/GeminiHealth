@@ -179,7 +179,7 @@ const ReportComponent = ({ onReportConfirmation }: Props) => {
                     Looks Good
                 </Button>
                 <div className='flex flex-row items-center justify-center gap-2 p-4'>
-                    <Label>Let's connect </Label>
+                    <Label>Connect with me </Label>
                     <SocialMediaLinks />
                 </div>
             </fieldset>
